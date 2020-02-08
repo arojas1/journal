@@ -1,6 +1,6 @@
 # Journals
 
-[Week One](##Week-One)
+**[Week One]**(#week-one)
 
 ## Week One
 
