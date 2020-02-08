@@ -7,11 +7,15 @@
 **[Git Commands](#git-commands)**
 
 
+
+
 ## Terminal Shortcuts
 Use Ctrl + C to cancel a command
 
 Use Crtl + L to clear the terminal
-***
+
+
+
 
 ## Terminal Commands
 
@@ -23,53 +27,53 @@ Use Crtl + L to clear the terminal
 
 **[cd Downloads](#cd-downloads)**
 
-**[cd ..](#cd-..)**
+**[cd ..](#cd-)**
 
-**[cd ../..](#cd-../..)**
+**[cd ../..](#cd--1)**
 
-**[cd ~](#cd-~)**
+**[cd ~](#cd--2)**
 
-**[touch foo.txt](#touch-foo.txt)**
+**[touch foo.txt](#touch-footxt)**
 
 **[echo hello](#echo-hello)**
 
 **[mkdir Projects](#mkdir-projects)**
 
-**[rm file.txt](#rm-file.txt)**
+**[rm file.txt](#rm-filetxt)**
 
-**[mv bar.txt ~/Desktop](#mv-bar.txt-~/Desktop)**
+**[mv bar.txt ~/Desktop](#mv-bartxt-desktop)**
 
-**[mv bar.txt ../Desktop](#mv-bar.txt-~/Desktop)**
+**[mv bar.txt ../Desktop](#mv-bartxt-desktop-1)**
 
-**[echo "My Cheat Sheet" > cheat_sheet.md](#echo-"My-Cheat-Sheet"->-cheat_sheet.md)**
+**[echo "My Cheat Sheet" > cheat_sheet.md](#echo-my-cheat-sheet--cheat_sheetmd)**
 
-**[cat cheat_sheet.md](#cat-cheat_sheet.md)**
+**[cat cheat_sheet.md](#cat-cheat_sheetmd)**
 
-**[code cheat_sheet.md](#code-cheat_sheet.md)**
+**[code cheat_sheet.md](#code-cheat_sheetmd)**
 
-**[cat cheat-sheet.md | sort](#cat-cheat-sheet.md-|-sort)**
+**[cat cheat-sheet.md | sort](#cat-cheat-sheetmd--sort)**
 
-**[cat cheat-sheet.md | sort > sorted-cheat-sheet.md](#cat-cheat-sheet.md-|-sort->-sorted-cheat-sheet.md)**
+**[cat cheat-sheet.md | sort > sorted-cheat-sheet.md](#cat-cheat-sheetmd--sort--sorted-cheat-sheetmd)**
 
-**[less nypl_items.csv](#less-nypl_items.csv)**
+**[less nypl_items.csv](#less-nypl_itemscsv)**
 
-**[head nypl_items.csv](#head-nypl_items.csv)**
+**[head nypl_items.csv](#head-nypl_itemscsv)**
 
-**[tail nypl_items.csv](#tail-nypl_items.csv)**
+**[tail nypl_items.csv](#tail-nypl_itemscsv)**
 
-**[cat nypl_items.csv | wc -l](#cat-nypl_items.csv-|-wc--l)**
+**[cat nypl_items.csv | wc -l](#cat-nypl_itemscsv--wc--l)**
 
-**[cat nypl_items.csv | uniq | wc -l](#cat-nypl_items.csv-|-uniq-|-wc--l)**
+**[cat nypl_items.csv | uniq | wc -l](#cat-nypl_itemscsv--uniq--wc--l)**
 
-**[cat nypl_items.csv | uniq -d](#cat-nypl_items.csv-|-uniq--d)**
+**[cat nypl_items.csv | uniq -d](#cat-nypl_itemscsv--uniq--d)**
 
-**[cat nypl_items.csv | uniq > nypl_no_dupes.csv](#cat-nypl_items.csv-|-uniq->-nypl_no_dupes.csv)**
+**[cat nypl_items.csv | uniq > nypl_no_dupes.csv](#cat-nypl_itemscsv--uniq--nypl_no_dupescsv)**
 
-**[cat nypl_items.csv | grep -i "paris"](#cat-nypl_items.csv-|-grep--i-"paris")**
+**[cat nypl_items.csv | grep -i "paris"](#cat-nypl_itemscsv--grep--i-paris)**
 
-**[cat nypl_items.csv | grep -i "paris" | wc -l](#cat-nypl_items.csv-|-grep--i-"paris"-|-wc--l)**
+**[cat nypl_items.csv | grep -i "paris" | wc -l](#cat-nypl_itemscsv--grep--i-paris--wc--l)**
 
-
+***
 
 #### **whoami**
 - Sends back username for computer.
@@ -161,12 +165,13 @@ Use Crtl + L to clear the terminal
 
 **[git status](#git-status)**
 
-**[git add goals.md](#git-add-goals.md)**
+**[git add goals.md](#git-add-goalsmd)**
 
-**[git commit -m "comments go here"](#git-commit--m-"comments-go-here")**
+**[git commit -m "comments go here"](#git-commit--m-comments-go-here)**
 
 **[git push](#git-push)**
 
+***
 
 #### git init
 - Initiate a link to GitHub from the folder that you are in.
