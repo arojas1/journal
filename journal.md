@@ -1,6 +1,7 @@
 # Journals
 
 **[Week One](#week-one)**
+**[Week Two](#week-two)**
 
 ## Week One
 
@@ -31,6 +32,7 @@
 - Connected journals folder to GitHub and uploaded goals.md to github.
 - Used touch to create journal.md in journal folder.
 - Looked up markdown syntax to add to journal.md.
-- Transferred journal from previous file to journal.md and used mardown syntax to adjust file.
+- Transferred journal from previous file to journal.md and used markdown syntax to adjust file.
 
 ### Second hr:
+- Experimented with markdown syntax on journal and cheat sheet. Used links to headings to make a sort of table of contents.
