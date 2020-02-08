@@ -1,7 +1,9 @@
 # Journals
 
 **[Week One](#week-one)**
+
 **[Week Two](#week-two)**
+***
 
 ## Week One
 
@@ -25,6 +27,7 @@
 
 ### Fifth hr:
 - Command practice using grep and thinking of how to use this in my other class.
+***
 
 ## Week Two
 
