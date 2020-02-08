@@ -1,0 +1,34 @@
+# Journals
+
+## Week One
+
+### First hr:
+- Created shortcut of my OneDrive Software folder in Desktop (using GUI not Terminal).
+- Moved shortcut to home.
+- Tried moving Projects directory into shortcut. Could not because it is just a link not a directory.
+- Tested if I can use echo to add another line to the cheat sheet we created in class. Found out that it would rewrite the file.
+- Added all the commands to the cheat sheet file and used the cat command to see it in the terminal.
+	
+### Second and third hr:
+- Continuied with command line practice.
+    - cat nypl_items.csv | uniq > nypl_no_dupes.csv.
+- Completed all of the challenges.
+- When doing challenge 5, the cd command in the .sh file was not actually putting me in the directory I wanted to be in. After some time googling, I found the post that explained that I had to put the command in like "$ . goto-projects.sh". This is when it actually put me into the directory I wanted to be in.
+- Created an alias "startclass" to run goto-projects.sh.
+- Adjusted what goto-projects.sh does so that it can set up items at the beginning of class (puts me into projects folder, opens cheatsheet, prints ready).
+	
+### Fourth hr:
+- Reviewed content under Week 1 optional resources.
+
+### Fifth hr:
+- Command practice using grep and thinking of how to use this in my other class.
+
+## Week Two
+
+### First hr:
+- Connected journals folder to GitHub and uploaded goals.md to github.
+- Used touch to create journal.md in journal folder.
+- Looked up markdown syntax to add to journal.md.
+- Transferred journal from previous file to journal.md and used mardown syntax to adjust file.
+
+### Second hr:
