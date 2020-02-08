@@ -19,7 +19,7 @@ Use Crtl + L to clear the terminal
 
 ## Terminal Commands
 
-|**[whoami](#whoami)**| **[mkdir Projects](#mkdir-projects)**|
+| **[whoami](#whoami)** | **[mkdir Projects](#mkdir-projects)** |
 
 **[pwd](#pwd)**
 
