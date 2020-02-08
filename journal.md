@@ -37,5 +37,8 @@
 - Looked up markdown syntax to add to journal.md.
 - Transferred journal from previous file to journal.md and used markdown syntax to adjust file.
 
-### Second hr:
-- Experimented with markdown syntax on journal and cheat sheet. Used links to headings to make a sort of table of contents.
+### Second and third hr:
+- Experimented with markdown syntax on journal and cheat sheet. 
+    - Used links to headings to make a sort of table of contents.
+    - Added horizontal lines to seperate sections.
+- Move cheat sheet to journal folder to add to GitHub
