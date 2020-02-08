@@ -1,5 +1,7 @@
 # Journals
 
+[Week One](##Week-One)
+
 ## Week One
 
 ### First hr:
