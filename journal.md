@@ -42,3 +42,7 @@
     - Used links to headings to make a sort of table of contents.
     - Added horizontal lines to seperate sections.
 - Move cheat sheet to journal folder to add to GitHub
+
+### Fourth and Fifth hr:
+- Downloaded Anaconda
+- Reviewed the resources from Week two (plain text) and Week three (python)
