@@ -137,3 +137,5 @@
 
 #### **cat nypl_items.csv | grep -i "paris" | wc -l**
 - Prints the count of lines with paris in them.
+
+[Back to Cheat Sheet](cheat_sheet.md)

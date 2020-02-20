@@ -27,3 +27,5 @@
 
 #### git push
 - Pushes the upload to the GitHub repository.
+
+[Back to Cheat Sheet](cheat_sheet.md)
