@@ -2,7 +2,7 @@
 
 **[Terminal Sortcuts](Terminal_Shortcuts.md)**
 
-**[Terminal Commands](#tTerminal_Commands.md)**
+**[Terminal Commands](Terminal_Commands.md)**
 
 **[Git Commands](Git_Commands.md)**
 
