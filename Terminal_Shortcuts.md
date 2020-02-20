@@ -1,6 +1,5 @@
-# Cheat Sheet
-
 ## Terminal Shortcuts
+
 Use Ctrl + C to cancel a command
 
 Use Crtl + L to clear the terminal
