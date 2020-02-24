@@ -3,6 +3,9 @@
 **[Week One](#week-one)**
 
 **[Week Two](#week-two)**
+
+**[Week Three](#week-three)**
+
 ***
 
 ## Week One
@@ -27,6 +30,7 @@
 
 ### Fifth hr:
 - Command practice using grep and thinking of how to use this in my other class.
+
 ***
 
 ## Week Two
@@ -46,3 +50,10 @@
 ### Fourth and Fifth hr:
 - Downloaded Anaconda
 - Reviewed the resources from Week two (plain text) and Week three (python)
+
+***
+
+## Week Three
+
+### First hr:
+- updated cheat sheet to be able to link to different pages when looking at cheatsheet in github
