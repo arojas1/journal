@@ -57,3 +57,8 @@
 
 ### First hr:
 - updated cheat sheet to be able to link to different pages when looking at cheatsheet in github
+
+### Second and third hr:
+- reinstalled Anaconda
+- updated format of cheatsheet, goals, and journal
+- added readme file as an easier way to navigate github
