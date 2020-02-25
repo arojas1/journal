@@ -27,6 +27,10 @@
 **[cat nypl_items.csv | uniq > nypl_no_dupes.csv](#cat-nypl_itemscsv--uniq--nypl_no_dupescsv)**\
 **[cat nypl_items.csv | grep -i "paris"](#cat-nypl_itemscsv--grep--i-paris)**\
 **[cat nypl_items.csv | grep -i "paris" | wc -l](#cat-nypl_itemscsv--grep--i-paris--wc--l)**\
+
+
+[Back to Cheat Sheet](cheat_sheet.md)
+
 ***
 
 #### **whoami**
@@ -110,5 +114,6 @@
 
 #### **cat nypl_items.csv | grep -i "paris" | wc -l**
 - Prints the count of lines with paris in them.
+
 
 [Back to Cheat Sheet](cheat_sheet.md)

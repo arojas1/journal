@@ -3,7 +3,7 @@
 **[git init](#git-init)**\
 **[git status](#git-status)**\
 **[git add goals.md](#git-add-goalsmd)**\
-**[git add .](#git-add)**\
+**[git add .](#git-add-)**\
 **[git commit -m "comments go here"](#git-commit--m-comments-go-here)**\
 **[git push](#git-push)**\
 
