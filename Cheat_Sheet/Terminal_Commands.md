@@ -1,9 +1,7 @@
 ## Terminal Commands
 
-**[whoami](#whoami)**
-
+**[whoami](#whoami)**\
 **[pwd](#pwd)**
-
 **[ls](#ls)**
 
 **[cd Downloads](#cd-downloads)**
