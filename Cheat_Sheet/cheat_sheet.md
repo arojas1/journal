@@ -1,6 +1,6 @@
 # Cheat Sheet
 
-**[Terminal Sortcuts](Terminal_Shortcuts.md)**
+**[Terminal Shortcuts](Terminal_Shortcuts.md)**
 
 **[Terminal Commands](Terminal_Commands.md)**
 

@@ -8,7 +8,7 @@
 * [Week Three](journal.md#week-three)
 
 ### [Cheat Sheet](Cheat_Sheet/cheat_sheet.md)
-* [Terminal Sortcuts](Terminal_Shortcuts.md)
-* [Terminal Commands](Terminal_Commands.md)
-* [Git Commands](Git_Commands.md)
-* [Python Commands](Python_Commands.md)
+* [Terminal Shortcuts](Cheat_Sheet/Terminal_Shortcuts.md)
+* [Terminal Commands](Cheat_Sheet/Terminal_Commands.md)
+* [Git Commands](Cheat_Sheet/Git_Commands.md)
+* [Python Commands](Cheat_Sheet/Python_Commands.md)
