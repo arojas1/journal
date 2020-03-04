@@ -6,6 +6,8 @@
 
 **[Week Three](#week-three)**
 
+**[Week Four](#week-four)**
+
 ***
 
 ## Week One
@@ -63,3 +65,20 @@
 - updated format of cheatsheet, goals, and journal
 - added readme file as an easier way to navigate github
 - added python notes to cheatsheet
+
+***
+
+## Week Four
+
+### First and second hr:
+- created html website through github pages
+- worked through creating html site using css (staging, setting up headings, footer and column placeholders)
+
+### third hr:
+- created a command line program at work and shortcut to open certain links when clicked
+
+### fourth hr:
+- continued with html
+
+### fifth hr:
+- did the readings for this week
