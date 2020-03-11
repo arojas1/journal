@@ -8,6 +8,8 @@
 
 **[Week Four](#week-four)**
 
+**[Week Five](#week-five)**
+
 ***
 
 ## Week One
@@ -82,3 +84,10 @@
 
 ### fifth hr:
 - did the readings for this week
+
+***
+
+## Week Five
+
+### Four hrs:
+- continued practice with HTML
