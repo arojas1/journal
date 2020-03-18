@@ -10,6 +10,8 @@
 
 **[Week Five](#week-five)**
 
+**[Week Six](#week-Six)**
+
 ***
 
 ## Week One
@@ -88,6 +90,14 @@
 ***
 
 ## Week Five
+
+### Four hrs:
+- continued practice with HTML
+-downloaded Jekyll
+
+***
+
+## Week Six
 
 ### Four hrs:
 - continued practice with HTML
