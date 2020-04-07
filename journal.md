@@ -12,6 +12,14 @@
 
 **[Week Six](#week-Six)**
 
+**[Week Seven](#week-Seven)**
+
+**[Week Eight](#week-Eight)**
+
+**[Week Nine](#week-Nine)**
+
+**[Week Ten](#week-Ten)**
+
 ***
 
 ## Week One
@@ -101,3 +109,33 @@
 
 ### Four hrs:
 - continued practice with HTML
+
+***
+
+## Week Seven
+
+- Instructional pause
+
+***
+
+## Week Eight
+
+- No Homework (transition to remote)
+
+***
+
+## Week Nine
+
+### first hr:
+- think of final project
+
+### second and third hr:
+- trying to look through python to see if there is a way to do a simple web application 
+
+***
+
+## Week Ten
+
+### first hr:
+- reworking idea for project
+

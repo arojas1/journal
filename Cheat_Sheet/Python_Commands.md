@@ -39,6 +39,22 @@ pick = random.choice(inspirations)
 
 print(pick)
 ```
-
+```python
+import info #file_name
+```
+```python
+type(info) #gives type of file
+```
+```python
+dir(info) #director of the file name given
+```
+```python
+import requests
+response = requests.get('URL')
+type(response)
+dir(response)
+text = response.text
+type(text)
+```
 
 [Back to Cheat Sheet](cheat_sheet.md)
