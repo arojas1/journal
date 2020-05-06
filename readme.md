@@ -13,6 +13,7 @@
 * [Week Eight](journal.md#week-eight)
 * [Week Nine](journal.md#week-nine)
 * [Week Ten](journal.md#week-ten)
+* [Week Eleven](journal.md#week-eleven)
 
 ### [Cheat Sheet](Cheat_Sheet/cheat_sheet.md)
 * [Terminal Shortcuts](Cheat_Sheet/Terminal_Shortcuts.md)

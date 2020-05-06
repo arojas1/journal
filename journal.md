@@ -20,6 +20,8 @@
 
 **[Week Ten](#week-Ten)**
 
+**[Week Eleven](#week-Eleven)**
+
 ***
 
 ## Week One
@@ -139,3 +141,13 @@
 ### first hr:
 - reworking idea for project
 
+***
+
+## Week Eleven
+
+### five hrs:
+- worked on reviewing flask and creating flask app demo
+    - created 4 pages
+    - created login page
+    - created sql database to show items once logged in
+    - pushed it to heroku
