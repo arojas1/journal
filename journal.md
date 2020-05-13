@@ -22,6 +22,8 @@
 
 **[Week Eleven](#week-Eleven)**
 
+**[Week Twelve](#week-Twelve)**
+
 ***
 
 ## Week One
@@ -151,3 +153,10 @@
     - created login page
     - created sql database to show items once logged in
     - pushed it to heroku
+
+## Week Twelve
+
+### five hrs:
+- worked on creating sql table for users, and two other tables.
+- added other user logins (tests)
+- set the flask page to show information that is set for specific users
